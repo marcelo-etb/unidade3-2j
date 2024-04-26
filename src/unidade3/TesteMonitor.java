@@ -11,7 +11,7 @@ public class TesteMonitor {
         m.modelo = "LW60q";
         m.resolucao = "FullHD";
         m.tamanho = 21;
-        m.preco = 540;
+        m.preco = 600;
         // Declarando objeto m2
         Monitor m2 = new Monitor();
         // Exibindo valores do objeto m
