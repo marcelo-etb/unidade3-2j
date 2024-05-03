@@ -3,7 +3,7 @@ package unidade3;
 public class TesteMonitor {
     
     public static void main(String[] args) {
-        // Declarando objeto m
+        // Declarando objeto m do tipo Monitor
         Monitor m = new Monitor();
         // Modificando o estado do objeto m
         m.frequencia = 60;
